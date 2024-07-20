@@ -1,0 +1,27 @@
+.UniqCourseBg {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.listdiv2 {
+  height: 50%;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.imglist2 {
+  height: 200px;
+  width: 250px;
+  padding-right: 10px;
+}
+.listbtn {
+  width: 200px;
+  height: 60px;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: roboto;
+  font-weight: bold;
+}

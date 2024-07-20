@@ -1,0 +1,10 @@
+.HeaderBg {
+  height: 100px;
+  width: 100%;
+  background-color: #f1f5f9;
+}
+.img{
+    padding-left: 20px;
+    height: 80%;
+    width: 200px;
+}
